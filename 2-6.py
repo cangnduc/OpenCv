@@ -26,4 +26,4 @@ while True:
 	a , b,c = [int(a) for a in input("abc: ").split()]
 	print(find_x(a,b,c))
 
- 
+ #them so
